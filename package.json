@@ -26,6 +26,7 @@
   "type": "module",
   "dependencies": {
     "@faker-js/faker": "^7.5.0",
+    "@sveltejs/adapter-static": "^1.0.6",
     "@tailwindcss/line-clamp": "^0.4.2",
     "@types/lodash": "^4.14.186",
     "@vitejs/plugin-basic-ssl": "^1.0.1",
